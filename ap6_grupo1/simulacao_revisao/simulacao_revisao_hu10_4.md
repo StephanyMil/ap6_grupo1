@@ -4,7 +4,7 @@
 
 > **Como** paciente,  
 > **Quero** poder editar uma avaliação que eu realizei,   
-> **Para** corrigi-lo ou atualizá-lo dentro de um prazo determinado.  
+> **Para** corrigi-la ou atualizá-la dentro de um prazo determinado.  
 
 ## ✅ Verificação com Checklist
 
